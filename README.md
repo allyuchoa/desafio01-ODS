@@ -5,6 +5,5 @@
 #### Projeto do ElasNaTech do curso de Desenvolvimento Web
 #### 
 #### Tecnologias ultilizadas;
-
-*html
-*CSS
+* HTML 
+* CSS

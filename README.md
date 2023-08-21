@@ -6,5 +6,5 @@
 #### 
 #### Tecnologias ultilizadas;
 
-*html*
-*CSS*
+*html
+*CSS
